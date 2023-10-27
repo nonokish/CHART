@@ -1,0 +1,14 @@
+@media (max-width: 930px) {
+    .page-title{
+      font-size: 34px;
+    }
+  	.page-title-r{
+      font-size: 14px!important;
+    }
+  }
+
+@media (max-width: 1200px) {
+    .login-r{
+      padding: 20% 20%!important;
+    }
+  }
